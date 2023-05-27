@@ -1,0 +1,13 @@
+After this whenever I get sometime 
+I will try to develop this application more.
+Technically I will scale it.
+
+Like, If difficulty choosen is Low, 
+will recommend him A beginner course which will help him to learn react easily
+
+If his difficulty choosen is Medium Will suggest him accordingly.
+For Hard and insane as well.
+
+Hopefully Will finish this Project oneday!!!!
+
+
