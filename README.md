@@ -1,5 +1,8 @@
 # ReactDifficulty
 React Difficulty Picker Application
+
+
+
 A basic React.JS project to choose the difficulty in React by using basic CSS.
 The Difficulties are set to Low, Medium, High and Insane.
 Based on the difficulty you choose it will be displayed as Difficulty set to Low/Medium/High/Insane.
